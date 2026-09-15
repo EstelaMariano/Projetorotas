@@ -8,7 +8,11 @@ import Contato from './pages/Contato'
 const App = () => {
   return (
     <>
-      
+      <Router>
+        <div>
+
+        </div>
+      </Router>
     </>
   )
 }
